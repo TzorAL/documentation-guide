@@ -1,4 +1,4 @@
-# Guide to host Swagger API documentation with GitHub Pages using redocly
+## Guide to host Swagger API documentation with GitHub Pages using redocly
 
 [View most recent version on Tango.us](https://app.tango.us/app/workflow/f919b805-2603-4365-8343-ba3afac2d78a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links) or at **tutorial.html**
 
