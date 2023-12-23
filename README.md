@@ -6,7 +6,7 @@ In repo, there is also an additional file named "fancy\_dist.json" to add more f
 
 ### Merge API descriptions
 
-To merge multiple API descriptions, you need to use the [redocly](https://redocly.com/docs/cli/) cli 
+To merge multiple API descriptions, you need to use the [redocly-cli](https://redocly.com/docs/cli/) 
 
 To install Redocly, you'll need to use npm (Node Package Manager) since Redocly is a set of tools for working with APIs and documentation, and it's built on top of Node.js. Here are the general steps to install Redocly using npm:
 
@@ -50,4 +50,3 @@ After that, you use the **join** command to merge different API descriptions (e.
 redocly join api1.yaml api2.yaml -o api-join.yaml
 ```
 
-Created with [Tango.us](https://tango.us?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links)
