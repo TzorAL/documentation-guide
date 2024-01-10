@@ -1,0 +1,6 @@
+# add the following to _config.yml file. 
+# This file is used by github pages to display README file 
+
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-cayman
