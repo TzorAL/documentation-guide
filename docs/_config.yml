@@ -1,5 +1,5 @@
 # This file is being read by github pages "root/docs" and reads markdown coming from docs/jekyll file (don't ask why)
 # title: Tutorial
 # description: Jekyll themed documentation
-show_downloads: true
-theme: jekyll-theme-cayman
+# show_downloads: true
+# theme: jekyll-theme-cayman
