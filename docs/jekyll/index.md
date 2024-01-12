@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Jekyll Page
+show_downloads: true
+theme: jekyll-theme-cayman
 ---
 
 ## Guide to host Swagger API documentation with GitHub Pages using redocly
