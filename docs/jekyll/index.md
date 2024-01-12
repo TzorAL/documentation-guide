@@ -10,6 +10,7 @@ To configure a single repository with multiple subfolders to be enabled for GitH
 ```bash
 git clone https://github.com/TzorAL/tutorial.git
 ```
+
 3. Create three subfolders within the repository's directory structure:
 ```
 root/docs
@@ -29,7 +30,6 @@ git push origin main
 ```
 
 6. Enable GitHub Pages for the repository by following these steps:
-
 - Go to the repository on GitHub.
 - Click on the "Settings" tab.
 - Scroll down to the "GitHub Pages" section.
