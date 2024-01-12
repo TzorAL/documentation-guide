@@ -1,7 +1,4 @@
----
-layout: default
-title: Tutorial
----
+
 
 ## Guide to host Swagger API documentation with GitHub Pages using redocly
 
