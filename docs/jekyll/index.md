@@ -13,7 +13,7 @@ git clone https://github.com/TzorAL/tutorial.git
 
 3. Create three subfolders within the repository's directory structure:
 ```
-root/docs
+main/docs
 ├── jekyll/         # jekyll subfolder containing files necessary for jekyll-themed github page
 |     ├── index.md  # markdwown displayed using jekyll theme
 ├── redocly/        # redocly subbfolder: see more info in tutorial.html
@@ -34,7 +34,7 @@ git push origin main
 - Click on the "Settings" tab.
 - Scroll down to the "GitHub Pages" section.
 - In the "Source" dropdown, select the branch you want to use (e.g., "main").
-- Choose the `root/docs` folder option or specify the folder path based on your preference.
+- Choose the `main/docs` folder option or specify the folder path based on your preference.
 - Click "Save".
 
 7. After saving, you will see a message indicating the URL at which your site is published. By default, it will use the repository name as the URL, but you can configure it further.
