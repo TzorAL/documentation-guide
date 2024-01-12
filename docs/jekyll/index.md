@@ -11,7 +11,6 @@ To configure a single repository with multiple subfolders to be enabled for GitH
 git clone https://github.com/TzorAL/tutorial.git
 ```
 3. Create three subfolders within the repository's directory structure:
-
 ```
 root/docs
 ├── jekyll/         # jekyll subfolder containing files necessary for jekyll-themed github page
@@ -23,7 +22,6 @@ root/docs
 4. Place the necessary files and content for each project within their respective subfolders.
 
 5. Commit and push the changes to GitHub:
-
 ``` bash
 git add .
 git commit -m "Added project folders"
@@ -45,7 +43,7 @@ To assign unique URLs to each subfolder as distinct web pages, you can leverage 
 
 For example:
 
-- Project A: https://your-username.github.io/TzorAL/tutorial/jekyll
-- Project B: https://your-username.github.io/TzorAL/tutorial/redocly
+- Project A: `https://your-username.github.io/TzorAL/tutorial/jekyll`
+- Project B: `https://your-username.github.io/TzorAL/tutorial/redocly`
 
 Each project will have its unique URL and can be accessed as separate web pages under the same GitHub Pages repository.
