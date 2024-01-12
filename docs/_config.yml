@@ -3,3 +3,4 @@ title: Tutorial
 description: Jekyll themed documentation
 show_downloads: true
 theme: jekyll-theme-cayman
+layout: default
