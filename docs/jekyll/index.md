@@ -71,7 +71,7 @@ git push origin main
 To assign unique URLs to each subfolder as distinct web pages, you can leverage the repository's GitHub Pages URL structure. By default, the URL will be in the format `https://your-username.github.io/my-test-projects/`. You can append the subfolder name to the URL to access each project individually.
 
 For example:
-- Project A: https://your-username.github.io/TzorAL/tutorial/jekyll
-- Project B: https://your-username.github.io/TzorAL/tutorial/redocly
+- Project A: https://tzoral.github.io/tutorial/jekyll
+- Project B: https://tzoral.github.io/tutorial/redocly
 
 Each project will have its unique URL and can be accessed as separate web pages under the same GitHub Pages repository.
