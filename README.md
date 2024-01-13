@@ -10,9 +10,11 @@ main/docs
 ├── redocly/        # redocly subbfolder: see more info in tutorial.html
 └── _config.yml     # contains jekyll setup/theme/description
 ```
+- It's important that each github page, has its contents in a seperate subfolder. 
+- `_config.yml` must be at the directory where github page is being built (in our case it's `main/docs`) 
 
 2. You can see detailed instrucitons on how to set up each different page (either redocly or jekyll) on the respective subfolder.
 
 3. For their combination (two github pages in the same repo), please check the guide at "jekyll" subfolder.
 
-4. To see the end result github pages, append "jekyll" or "redocly" at the end of github page link 
+4. To see the end result github pages, append "jekyll" or "redocly" at the end of github page [link](tzoral.github.io/tutorial/) 
