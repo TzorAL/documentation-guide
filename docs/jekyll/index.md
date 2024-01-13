@@ -23,7 +23,7 @@ Enable GitHub Pages for the repository by following these steps:
 - Choose the `root/docs` folder option or specify the folder path based on your preference.
 - Click "Save".
 
-After a while, the github page is going to be built: `https://tzoral.github.io/tutorial/`
+After saving, you will see a message indicating the URL at which your site is published. By default, it will use the repository name as the URL, but you can configure it further.
 
 Multiple github pages
 ---
