@@ -19,6 +19,8 @@ main/docs
 ├── redocly/        # redocly subbfolder: see more info in tutorial.html
 └── _config.yml     # contains jekyll setup/theme/description
 ```
+- It's important that each github page, has its contents in a seperate subfolder. 
+- `_config.yml` must be at the directory where github page is being built (in our case it's `main/docs`) 
 
 4. Place the necessary files and content for each project within their respective subfolders.
 
