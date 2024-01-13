@@ -11,7 +11,7 @@ To configure a single repository with multiple subfolders to be enabled for GitH
 git clone https://github.com/TzorAL/tutorial.git
 ```
 
-3. Create three subfolders within the repository's directory structure:
+3. Create two subfolders and **_config.yml** file within the repository's directory structure:
 ```
 main/docs
 ├── jekyll/         # jekyll subfolder containing files necessary for jekyll-themed github page
