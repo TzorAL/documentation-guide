@@ -24,7 +24,7 @@ main/docs
 - It's important that each github page, has its contents in a seperate subfolder. 
 - `_config.yml` **must** be at the github page build directory (e.g `main/docs`) 
 
-2. See detailed guide on how to set up each different page (redocly/jekyll) on the respective subfolder.
+2. See guide to set up each different page (redocly/jekyll) on the respective subfolder.
 
 3. For multiple github pages in the same repo, please check the guide at "jekyll" subfolder.
 
