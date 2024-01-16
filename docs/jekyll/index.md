@@ -39,11 +39,17 @@ git clone https://github.com/TzorAL/tutorial.git
 
 3. Create three subfolders within the repository's directory structure:
 ```
-root/docs
-├── jekyll/         # jekyll subfolder containing files necessary for jekyll-themed github page
-|     ├── index.md  # markdwown displayed using jekyll theme
-├── redocly/        # redocly subbfolder: see more info in tutorial.html
-└── _config.yml     # contains jekyll setup/theme/description
+main/docs
+├── jekyll/           # jekyll subfolder containing files necessary for jekyll-themed github page
+|     └── index.md    # markdwown displayed using jekyll theme
+├── redocly/          # redocly subbfolder: see more info in tutorial.html
+|     ├── index.html  # set page structure of redocly and set .json file used for api docs
+|     ├── dist.json   # json file containing api docs
+|     ├── README.md   # Guide to host Swagger API documentation with GitHub Pages using redocly
+|     └── favicon.png # png of redocly favicon
+├── _config.yml       # contains jekyll setup/theme/description for jekyll-themed github pages
+├── index.html        # html file to structure jekyll themed in main/docs github page   
+└── README.MD         # documentation to display at main/docs github page
 ```
 - It's important that each github page, has its contents in a seperate subfolder. 
 - `_config.yml` must be at the directory where github page is being built (e.g `main/docs`) 
@@ -71,7 +77,7 @@ git push origin main
 To assign unique URLs to each subfolder as distinct web pages, you can leverage the repository's GitHub Pages URL structure. By default, the URL will be in the format `https://your-username.github.io/my-test-projects/`. You can append the subfolder name to the URL to access each project individually.
 
 For example:
-- Project A: https://tzoral.github.io/tutorial/jekyll
-- Project B: https://tzoral.github.io/tutorial/redocly
+- Project A: [https://tzoral.github.io/documentation-guide/jekyll](https://tzoral.github.io/tutorial/jekyll)
+- Project B: [https://tzoral.github.io/documentation-guide/redocly](https://tzoral.github.io/tutorial/redocly)
 
 Each project will have its unique URL and can be accessed as separate web pages under the same GitHub Pages repository.
