@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentation Guide - Home
+---
+
 ## Documentation on github pages
 
 This repo describes a guide to properly display documentation using redocly and jekyll themes (or their combination)
