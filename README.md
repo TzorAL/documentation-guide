@@ -17,7 +17,7 @@ main/docs
 
 2. You can see detailed instrucitons on how to set up each different page (either redocly or jekyll) on the respective subfolder.
 
-3. For their combination (two github pages in the same repo), please check the guide at "jekyll" subfolder.
+3. For multiple github pages in the same repo, please check the guide at "jekyll" subfolder.
 
 4. To see the end result github pages, append "jekyll" or "redocly" at the end of github page [link](tzoral.github.io/documentation-guide/) 
     - Jekyll themed:  https://tzoral.github.io/documentation-guide/jekyll
