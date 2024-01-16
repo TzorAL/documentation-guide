@@ -18,3 +18,5 @@ main/docs
 3. For their combination (two github pages in the same repo), please check the guide at "jekyll" subfolder.
 
 4. To see the end result github pages, append "jekyll" or "redocly" at the end of github page [link](tzoral.github.io/tutorial/) 
+    - Jekyll themed:  https://tzoral.github.io/documentation-guide/jekyll
+    - Redocly themed: https://tzoral.github.io/documentation-guide/redocly
