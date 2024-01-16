@@ -13,10 +13,10 @@ main/docs
 ├── jekyll/           # jekyll subfolder containing files necessary for jekyll-themed github page
 |     └── index.md    # markdwown displayed using jekyll theme
 ├── redocly/          # redocly subbfolder: see more info in tutorial.html
-├──   ├── index.html  # set page structure of redocly and set .json file used for api docs
-├──   ├── dist.json   # json file containing api docs
-├──   ├── README.md   # Guide to host Swagger API documentation with GitHub Pages using redocly
-├──   └── favicon.png # png of redocly favicon
+|     ├── index.html  # set page structure of redocly and set .json file used for api docs
+|     ├── dist.json   # json file containing api docs
+|     ├── README.md   # Guide to host Swagger API documentation with GitHub Pages using redocly
+|     └── favicon.png # png of redocly favicon
 ├── _config.yml       # contains jekyll setup/theme/description for jekyll-themed github pages
 ├── index.html        # html file to structure jekyll themed in main/docs github page   
 └── README.MD         # documentation to display at main/docs github page
