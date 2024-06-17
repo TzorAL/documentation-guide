@@ -50,3 +50,8 @@ After that, you use the **join** command to merge different API descriptions (e.
 ```bash
 redocly join api1.yaml api2.yaml -o api-join.yaml
 ```
+
+Το see a preview of your API specification in your browser (e.g at port 3000):
+```bash
+redocly preview-docs api-join.yaml --port 3000
+```
